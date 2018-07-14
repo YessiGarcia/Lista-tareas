@@ -1,0 +1,15 @@
+li{
+    width: 300px;
+    margin-bottom: 10px;
+}
+.eliminar{
+    display: inline-block;
+    width: 20px;
+    text-align: center;
+    margin-left: 10px;
+    color: #fff;
+    font-weight: 700px;
+    cursor: pointer;
+    background:#000;
+    float: right;
+}
